@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752778089461",
+    "project_id": "city-channel-2b171",
+    "storage_bucket": "city-channel-2b171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752778089461:android:29662ed7d02c833b9c46bc",
+        "android_client_info": {
+          "package_name": "com.example.city_channel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752778089461-vecihn878oqnfunv1o0b45ajc5sh03m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiSHMejKclhMI4hvSFb0PRpR06TgS2Fag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752778089461-vecihn878oqnfunv1o0b45ajc5sh03m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
